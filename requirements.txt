@@ -1,6 +1,6 @@
 streamlit
 numpy
 Pillow
-cv2
+opencv-python
 tensorflow
 protobuf==3.19.1
